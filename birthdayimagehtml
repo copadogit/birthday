@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML img Tag</title>
+      <title>Happy birthday Tag</title>
    </head>
 
    <body>
-      <img src="https://i.imgur.com/g820MdE.jpg" alt="fuck you " width="200"
-         height="200">
+	<a href="https://i.imgur.com/g820MdE.jpg">
+		<img src="https://i.imgur.com/7CIYgG6.jpg" alt="fuck you " width=25%
+         	height=25% title="Happy birthday bobo">
+	</a>
+      
    </body>
 </html>
